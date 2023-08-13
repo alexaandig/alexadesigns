@@ -4982,6 +4982,7 @@ figcaption {
     margin-right: 0;
     margin-bottom: 0;
     margin-left: 0;
+    margin-top: 40px;
   }
   .margin-top.margin-medium {
     width: 100%;
@@ -4990,6 +4991,7 @@ figcaption {
     margin-top: 0;
     margin-right: 0;
     margin-left: 0;
+    margin-bottom: 40px;
   }
   .margin-bottom.margin-xxlarge {
     margin-bottom: 2rem;
