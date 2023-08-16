@@ -3578,7 +3578,7 @@ figcaption {
   -webkit-align-items: flex-end;
   -ms-flex-align: end;
   align-items: flex-end;
-  background-image: url("/assets/img/63c3c3096a006256f921cb04_BG.webp");
+  background-image: url("../img/63c3c3096a006256f921cb04_BG.webp");
   background-position: 50% 50%;
   background-size: cover;
 }
@@ -4094,7 +4094,7 @@ figcaption {
 
 .section-404 {
   position: relative;
-  background-image: url("/assets/img/63ca792440bbd8ff9bb566a0_404%20Background.webp");
+  background-image: url("../img/63ca792440bbd8ff9bb566a0_404%20Background.webp");
   background-position: 50% 50%;
   background-size: cover;
 }
@@ -6380,28 +6380,28 @@ figcaption {
 }
 @font-face {
   font-family: 'Spacegrotesk';
-  src: url('/assets/fonts/63b78c96ca7c08878ab87bfa_SpaceGrotesk-Bold.ttf') format('truetype');
+  src: url('../fonts/63b78c96ca7c08878ab87bfa_SpaceGrotesk-Bold.ttf') format('truetype');
   font-weight: 700;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: 'Spacegrotesk';
-  src: url('/assets/fonts/63b78c97af60ce88f0e6751f_SpaceGrotesk-SemiBold.ttf') format('truetype');
+  src: url('../fonts/63b78c97af60ce88f0e6751f_SpaceGrotesk-SemiBold.ttf') format('truetype');
   font-weight: 600;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: 'Spacegrotesk';
-  src: url('/assets/fonts/63b78c962e79261792c11b46_SpaceGrotesk-Medium.ttf') format('truetype');
+  src: url('../fonts/63b78c962e79261792c11b46_SpaceGrotesk-Medium.ttf') format('truetype');
   font-weight: 500;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: 'Spacegrotesk';
-  src: url('/assets/fonts/63b78c9602e67e608d1cabec_SpaceGrotesk-Regular.ttf') format('truetype');
+  src: url('../fonts/63b78c9602e67e608d1cabec_SpaceGrotesk-Regular.ttf') format('truetype');
   font-weight: 400;
   font-style: normal;
   font-display: swap;
