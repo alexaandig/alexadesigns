@@ -50501,13 +50501,13 @@ Weflow.require("ix2").init({
       mediaQueries: ["main"],
       target: {
         selector: ".button-text.arrow-right",
-        originalId: "5d5e24fc-7859-d86b-4a0b-498c7e3181cb",
+        originalId: "button-text.arrow-right",
         appliesTo: "CLASS",
       },
       targets: [
         {
           selector: ".button-text.arrow-right",
-          originalId: "5d5e24fc-7859-d86b-4a0b-498c7e3181cb",
+          originalId: "button-text.arrow-right",
           appliesTo: "CLASS",
         },
       ],
@@ -50630,14 +50630,14 @@ Weflow.require("ix2").init({
       target: {
         selector: ".exhibiton-content",
         originalId:
-          "634e3ae6f7e03258f05e7fa8|f586b3e0-0792-1488-cd62-8b104e6a743f",
+          "page-arkitek|f586b3e0-0792-1488-cd62-8b104e6a743f",
         appliesTo: "CLASS",
       },
       targets: [
         {
           selector: ".exhibiton-content",
           originalId:
-            "634e3ae6f7e03258f05e7fa8|f586b3e0-0792-1488-cd62-8b104e6a743f",
+            "page-arkitek|f586b3e0-0792-1488-cd62-8b104e6a743f",
           appliesTo: "CLASS",
         },
       ],
@@ -50674,14 +50674,14 @@ Weflow.require("ix2").init({
       target: {
         selector: ".exhibiton-cta",
         originalId:
-          "634e3ae6f7e03258f05e7fa8|f586b3e0-0792-1488-cd62-8b104e6a7451",
+          "page-arkitek|f586b3e0-0792-1488-cd62-8b104e6a7451",
         appliesTo: "CLASS",
       },
       targets: [
         {
           selector: ".exhibiton-cta",
           originalId:
-            "634e3ae6f7e03258f05e7fa8|f586b3e0-0792-1488-cd62-8b104e6a7451",
+            "page-arkitek|f586b3e0-0792-1488-cd62-8b104e6a7451",
           appliesTo: "CLASS",
         },
       ],
@@ -50718,14 +50718,14 @@ Weflow.require("ix2").init({
       target: {
         selector: ".exhbition-date-day",
         originalId:
-          "634e3ae6f7e03258f05e7fa8|f586b3e0-0792-1488-cd62-8b104e6a7455",
+          "page-arkitek|f586b3e0-0792-1488-cd62-8b104e6a7455",
         appliesTo: "CLASS",
       },
       targets: [
         {
           selector: ".exhbition-date-day",
           originalId:
-            "634e3ae6f7e03258f05e7fa8|f586b3e0-0792-1488-cd62-8b104e6a7455",
+            "page-arkitek|f586b3e0-0792-1488-cd62-8b104e6a7455",
           appliesTo: "CLASS",
         },
       ],
@@ -50762,14 +50762,14 @@ Weflow.require("ix2").init({
       target: {
         selector: ".exhbition-date-month",
         originalId:
-          "634e3ae6f7e03258f05e7fa8|f586b3e0-0792-1488-cd62-8b104e6a7453",
+          "page-arkitek|f586b3e0-0792-1488-cd62-8b104e6a7453",
         appliesTo: "CLASS",
       },
       targets: [
         {
           selector: ".exhbition-date-month",
           originalId:
-            "634e3ae6f7e03258f05e7fa8|f586b3e0-0792-1488-cd62-8b104e6a7453",
+            "page-arkitek|f586b3e0-0792-1488-cd62-8b104e6a7453",
           appliesTo: "CLASS",
         },
       ],
@@ -51404,13 +51404,13 @@ Weflow.require("ix2").init({
       },
       mediaQueries: ["main", "medium", "small", "tiny"],
       target: {
-        selector: ".accordion-title-wapper",
+        selector: ".accordion-wrapper",
         originalId: "7977c00e-6ad8-441a-2e87-d0a7a6a6d5d5",
         appliesTo: "CLASS",
       },
       targets: [
         {
-          selector: ".accordion-title-wapper",
+          selector: ".accordion-wrapper",
           originalId: "7977c00e-6ad8-441a-2e87-d0a7a6a6d5d5",
           appliesTo: "CLASS",
         },
@@ -51446,13 +51446,13 @@ Weflow.require("ix2").init({
       },
       mediaQueries: ["main", "medium", "small", "tiny"],
       target: {
-        selector: ".accordion-title-wapper",
+        selector: ".accordion-wrapper",
         originalId: "7977c00e-6ad8-441a-2e87-d0a7a6a6d5d5",
         appliesTo: "CLASS",
       },
       targets: [
         {
-          selector: ".accordion-title-wapper",
+          selector: ".accordion-wrapper",
           originalId: "7977c00e-6ad8-441a-2e87-d0a7a6a6d5d5",
           appliesTo: "CLASS",
         },
@@ -51652,13 +51652,13 @@ Weflow.require("ix2").init({
       },
       mediaQueries: ["main"],
       target: {
-        id: "634e3ae6f7e03258f05e7fa8",
+        id: "page-arkitek",
         appliesTo: "PAGE",
         styleBlockIds: [],
       },
       targets: [
         {
-          id: "634e3ae6f7e03258f05e7fa8",
+          id: "page-arkitek",
           appliesTo: "PAGE",
           styleBlockIds: [],
         },
@@ -51705,14 +51705,14 @@ Weflow.require("ix2").init({
       target: {
         selector: ".home-testimonials-card",
         originalId:
-          "634e3ae6f7e03258f05e7fa8|a7a33b55-8657-0889-d829-aefa2bc27ddc",
+          "page-arkitek|a7a33b55-8657-0889-d829-aefa2bc27ddc",
         appliesTo: "CLASS",
       },
       targets: [
         {
           selector: ".home-testimonials-card",
           originalId:
-            "634e3ae6f7e03258f05e7fa8|a7a33b55-8657-0889-d829-aefa2bc27ddc",
+            "page-arkitek|a7a33b55-8657-0889-d829-aefa2bc27ddc",
           appliesTo: "CLASS",
         },
       ],
@@ -51749,14 +51749,14 @@ Weflow.require("ix2").init({
       target: {
         selector: ".home-features-card",
         originalId:
-          "634e3ae6f7e03258f05e7fa8|6f039abf-9af8-5160-981a-da1f31572be6",
+          "page-arkitek|6f039abf-9af8-5160-981a-da1f31572be6",
         appliesTo: "CLASS",
       },
       targets: [
         {
           selector: ".home-features-card",
           originalId:
-            "634e3ae6f7e03258f05e7fa8|6f039abf-9af8-5160-981a-da1f31572be6",
+            "page-arkitek|6f039abf-9af8-5160-981a-da1f31572be6",
           appliesTo: "CLASS",
         },
       ],
@@ -51793,14 +51793,14 @@ Weflow.require("ix2").init({
       target: {
         selector: ".home-savings-column",
         originalId:
-          "634e3ae6f7e03258f05e7fa8|253c17cd-396f-5493-8da8-4fb0d3f39a77",
+          "page-arkitek|253c17cd-396f-5493-8da8-4fb0d3f39a77",
         appliesTo: "CLASS",
       },
       targets: [
         {
           selector: ".home-savings-column",
           originalId:
-            "634e3ae6f7e03258f05e7fa8|253c17cd-396f-5493-8da8-4fb0d3f39a77",
+            "page-arkitek|253c17cd-396f-5493-8da8-4fb0d3f39a77",
           appliesTo: "CLASS",
         },
       ],
@@ -51837,14 +51837,14 @@ Weflow.require("ix2").init({
       target: {
         selector: ".home-tools-logo",
         originalId:
-          "634e3ae6f7e03258f05e7fa8|d0503fa1-e6ca-77b6-ced7-8be6cdcedb63",
+          "page-arkitek|d0503fa1-e6ca-77b6-ced7-8be6cdcedb63",
         appliesTo: "CLASS",
       },
       targets: [
         {
           selector: ".home-tools-logo",
           originalId:
-            "634e3ae6f7e03258f05e7fa8|d0503fa1-e6ca-77b6-ced7-8be6cdcedb63",
+            "page-arkitek|d0503fa1-e6ca-77b6-ced7-8be6cdcedb63",
           appliesTo: "CLASS",
         },
       ],
@@ -52569,14 +52569,14 @@ Weflow.require("ix2").init({
       target: {
         selector: ".home-team-item-image",
         originalId:
-          "634e3ae6f7e03258f05e7fa8|cb70c06a-7015-db24-84af-35364ad4010a",
+          "page-arkitek|cb70c06a-7015-db24-84af-35364ad4010a",
         appliesTo: "CLASS",
       },
       targets: [
         {
           selector: ".home-team-item-image",
           originalId:
-            "634e3ae6f7e03258f05e7fa8|cb70c06a-7015-db24-84af-35364ad4010a",
+            "page-arkitek|cb70c06a-7015-db24-84af-35364ad4010a",
           appliesTo: "CLASS",
         },
       ],
@@ -52613,14 +52613,14 @@ Weflow.require("ix2").init({
       target: {
         selector: ".home-team-item-image",
         originalId:
-          "634e3ae6f7e03258f05e7fa8|cb70c06a-7015-db24-84af-35364ad4010a",
+          "page-arkitek|cb70c06a-7015-db24-84af-35364ad4010a",
         appliesTo: "CLASS",
       },
       targets: [
         {
           selector: ".home-team-item-image",
           originalId:
-            "634e3ae6f7e03258f05e7fa8|cb70c06a-7015-db24-84af-35364ad4010a",
+            "page-arkitek|cb70c06a-7015-db24-84af-35364ad4010a",
           appliesTo: "CLASS",
         },
       ],
@@ -52649,12 +52649,12 @@ Weflow.require("ix2").init({
       target: {
         selector: ".post-preview-image",
         originalId:
-          "635c07ddb771f32cf370622b|aed57c70-8213-1008-87ab-4ed6a2bc8152",
+          "page-blog|aed57c70-8213-1008-87ab-4ed6a2bc8152",
         appliesTo: "CLASS",
       },
       targets: [
         {
-          id: "635c07ddb771f32cf370622b|2003ac9d-8ea6-f8ff-9211-030141309807",
+          id: "page-blog|2003ac9d-8ea6-f8ff-9211-030141309807",
           appliesTo: "ELEMENT",
           styleBlockIds: [],
         },
@@ -52695,14 +52695,14 @@ Weflow.require("ix2").init({
       target: {
         selector: ".post-preview-image-link",
         originalId:
-          "635c07ddb771f32cf370622b|6de8e646-8a74-65b3-38ae-0284904959cb",
+          "page-blog|6de8e646-8a74-65b3-38ae-0284904959cb",
         appliesTo: "CLASS",
       },
       targets: [
         {
           selector: ".post-preview-image-link",
           originalId:
-            "635c07ddb771f32cf370622b|6de8e646-8a74-65b3-38ae-0284904959cb",
+            "page-blog|6de8e646-8a74-65b3-38ae-0284904959cb",
           appliesTo: "CLASS",
         },
       ],
@@ -52739,14 +52739,14 @@ Weflow.require("ix2").init({
       target: {
         selector: ".post-preview-image-link",
         originalId:
-          "635c07ddb771f32cf370622b|6de8e646-8a74-65b3-38ae-0284904959cb",
+          "page-blog|6de8e646-8a74-65b3-38ae-0284904959cb",
         appliesTo: "CLASS",
       },
       targets: [
         {
           selector: ".post-preview-image-link",
           originalId:
-            "635c07ddb771f32cf370622b|6de8e646-8a74-65b3-38ae-0284904959cb",
+            "page-blog|6de8e646-8a74-65b3-38ae-0284904959cb",
           appliesTo: "CLASS",
         },
       ],
@@ -52783,14 +52783,14 @@ Weflow.require("ix2").init({
       target: {
         selector: ".cursor-trigger",
         originalId:
-          "635c07ddb771f32cf370622b|ace664ea-3c19-68e2-cf73-fa072beb1f1c",
+          "page-blog|ace664ea-3c19-68e2-cf73-fa072beb1f1c",
         appliesTo: "CLASS",
       },
       targets: [
         {
           selector: ".cursor-trigger",
           originalId:
-            "635c07ddb771f32cf370622b|ace664ea-3c19-68e2-cf73-fa072beb1f1c",
+            "page-blog|ace664ea-3c19-68e2-cf73-fa072beb1f1c",
           appliesTo: "CLASS",
         },
       ],
@@ -52856,13 +52856,13 @@ Weflow.require("ix2").init({
       },
       mediaQueries: ["main", "medium", "small", "tiny"],
       target: {
-        id: "634e3ae6f7e03258f05e7fa8|2e0e2ee6-6a38-eb06-348d-4ec1b9f98615",
+        id: "page-arkitek|2e0e2ee6-6a38-eb06-348d-4ec1b9f98615",
         appliesTo: "ELEMENT",
         styleBlockIds: [],
       },
       targets: [
         {
-          id: "634e3ae6f7e03258f05e7fa8|2e0e2ee6-6a38-eb06-348d-4ec1b9f98615",
+          id: "page-arkitek|2e0e2ee6-6a38-eb06-348d-4ec1b9f98615",
           appliesTo: "ELEMENT",
           styleBlockIds: [],
         },
@@ -52930,13 +52930,13 @@ Weflow.require("ix2").init({
       },
       mediaQueries: ["main", "medium", "small", "tiny"],
       target: {
-        id: "634e3ae6f7e03258f05e7fa8|9194e5ad-0d24-c4de-dd0e-76df7db70b07",
+        id: "page-arkitek|sectionhomehero",
         appliesTo: "ELEMENT",
         styleBlockIds: [],
       },
       targets: [
         {
-          id: "634e3ae6f7e03258f05e7fa8|9194e5ad-0d24-c4de-dd0e-76df7db70b07",
+          id: "page-arkitek|sectionhomehero",
           appliesTo: "ELEMENT",
           styleBlockIds: [],
         },
@@ -53125,13 +53125,13 @@ Weflow.require("ix2").init({
       },
       mediaQueries: ["main", "medium", "small", "tiny"],
       target: {
-        id: "634e3ae6f7e03258f05e7fa8|9194e5ad-0d24-c4de-dd0e-76df7db70b16",
+        id: "page-arkitek|animated-hero-h1",
         appliesTo: "ELEMENT",
         styleBlockIds: [],
       },
       targets: [
         {
-          id: "634e3ae6f7e03258f05e7fa8|9194e5ad-0d24-c4de-dd0e-76df7db70b16",
+          id: "page-arkitek|animated-hero-h1",
           appliesTo: "ELEMENT",
           styleBlockIds: [],
         },
@@ -53167,13 +53167,13 @@ Weflow.require("ix2").init({
       },
       mediaQueries: ["main", "medium", "small", "tiny"],
       target: {
-        id: "634e3ae6f7e03258f05e7fa8|9194e5ad-0d24-c4de-dd0e-76df7db70b14",
+        id: "page-arkitek|animated-hero-h2",
         appliesTo: "ELEMENT",
         styleBlockIds: [],
       },
       targets: [
         {
-          id: "634e3ae6f7e03258f05e7fa8|9194e5ad-0d24-c4de-dd0e-76df7db70b14",
+          id: "page-arkitek|animated-hero-h2",
           appliesTo: "ELEMENT",
           styleBlockIds: [],
         },
@@ -53209,13 +53209,13 @@ Weflow.require("ix2").init({
       },
       mediaQueries: ["main", "medium", "small", "tiny"],
       target: {
-        id: "634e3ae6f7e03258f05e7fa8|25ab6a3a-0c23-14e4-4761-1db45f53459d",
+        id: "page-arkitek|25ab6a3a-0c23-14e4-4761-1db45f53459d",
         appliesTo: "ELEMENT",
         styleBlockIds: [],
       },
       targets: [
         {
-          id: "634e3ae6f7e03258f05e7fa8|25ab6a3a-0c23-14e4-4761-1db45f53459d",
+          id: "page-arkitek|25ab6a3a-0c23-14e4-4761-1db45f53459d",
           appliesTo: "ELEMENT",
           styleBlockIds: [],
         },
@@ -53251,13 +53251,13 @@ Weflow.require("ix2").init({
       },
       mediaQueries: ["main", "medium", "small", "tiny"],
       target: {
-        id: "634e3ae6f7e03258f05e7fa8|9194e5ad-0d24-c4de-dd0e-76df7db70b19",
+        id: "page-arkitek|animated-hero-text",
         appliesTo: "ELEMENT",
         styleBlockIds: [],
       },
       targets: [
         {
-          id: "634e3ae6f7e03258f05e7fa8|9194e5ad-0d24-c4de-dd0e-76df7db70b19",
+          id: "page-arkitek|animated-hero-text",
           appliesTo: "ELEMENT",
           styleBlockIds: [],
         },
@@ -53923,13 +53923,13 @@ Weflow.require("ix2").init({
       },
       mediaQueries: ["main"],
       target: {
-        id: "634e3ae6f7e03258f05e7fa8|9194e5ad-0d24-c4de-dd0e-76df7db70b07",
+        id: "page-arkitek|sectionhomehero",
         appliesTo: "ELEMENT",
         styleBlockIds: [],
       },
       targets: [
         {
-          id: "634e3ae6f7e03258f05e7fa8|9194e5ad-0d24-c4de-dd0e-76df7db70b07",
+          id: "page-arkitek|sectionhomehero",
           appliesTo: "ELEMENT",
           styleBlockIds: [],
         },
@@ -53965,13 +53965,13 @@ Weflow.require("ix2").init({
       },
       mediaQueries: ["main"],
       target: {
-        id: "634e3ae6f7e03258f05e7fa8|9194e5ad-0d24-c4de-dd0e-76df7db70b07",
+        id: "page-arkitek|sectionhomehero",
         appliesTo: "ELEMENT",
         styleBlockIds: [],
       },
       targets: [
         {
-          id: "634e3ae6f7e03258f05e7fa8|9194e5ad-0d24-c4de-dd0e-76df7db70b07",
+          id: "page-arkitek|sectionhomehero",
           appliesTo: "ELEMENT",
           styleBlockIds: [],
         },
@@ -54136,14 +54136,14 @@ Weflow.require("ix2").init({
       target: {
         selector: ".projects-item-link",
         originalId:
-          "634e3ae6f7e03258f05e7fa8|9acff369-3ff4-143d-92e7-06c76da2fbd2",
+          "page-arkitek|9acff369-3ff4-143d-92e7-06c76da2fbd2",
         appliesTo: "CLASS",
       },
       targets: [
         {
           selector: ".projects-item-link",
           originalId:
-            "634e3ae6f7e03258f05e7fa8|9acff369-3ff4-143d-92e7-06c76da2fbd2",
+            "page-arkitek|9acff369-3ff4-143d-92e7-06c76da2fbd2",
           appliesTo: "CLASS",
         },
       ],
@@ -54180,14 +54180,14 @@ Weflow.require("ix2").init({
       target: {
         selector: ".projects-item-link",
         originalId:
-          "634e3ae6f7e03258f05e7fa8|9acff369-3ff4-143d-92e7-06c76da2fbd2",
+          "page-arkitek|9acff369-3ff4-143d-92e7-06c76da2fbd2",
         appliesTo: "CLASS",
       },
       targets: [
         {
           selector: ".projects-item-link",
           originalId:
-            "634e3ae6f7e03258f05e7fa8|9acff369-3ff4-143d-92e7-06c76da2fbd2",
+            "page-arkitek|9acff369-3ff4-143d-92e7-06c76da2fbd2",
           appliesTo: "CLASS",
         },
       ],
@@ -54794,7 +54794,7 @@ Weflow.require("ix2").init({
                 duration: 500,
                 target: {
                   useEventTarget: true,
-                  id: "634e3ae6f7e03258f05e7fa8|a7ab49b1-7e04-4066-b939-5a81af3cd95a",
+                  id: "page-arkitek|a7ab49b1-7e04-4066-b939-5a81af3cd95a",
                 },
                 yValue: 50,
                 xUnit: "PX",
@@ -54811,7 +54811,7 @@ Weflow.require("ix2").init({
                 duration: 500,
                 target: {
                   useEventTarget: true,
-                  id: "634e3ae6f7e03258f05e7fa8|a7ab49b1-7e04-4066-b939-5a81af3cd95a",
+                  id: "page-arkitek|a7ab49b1-7e04-4066-b939-5a81af3cd95a",
                 },
                 value: 0,
                 unit: "",
@@ -54830,7 +54830,7 @@ Weflow.require("ix2").init({
                 duration: 1000,
                 target: {
                   useEventTarget: true,
-                  id: "634e3ae6f7e03258f05e7fa8|a7ab49b1-7e04-4066-b939-5a81af3cd95a",
+                  id: "page-arkitek|a7ab49b1-7e04-4066-b939-5a81af3cd95a",
                 },
                 yValue: 0,
                 xUnit: "PX",
@@ -54847,7 +54847,7 @@ Weflow.require("ix2").init({
                 duration: 1000,
                 target: {
                   useEventTarget: true,
-                  id: "634e3ae6f7e03258f05e7fa8|a7ab49b1-7e04-4066-b939-5a81af3cd95a",
+                  id: "page-arkitek|a7ab49b1-7e04-4066-b939-5a81af3cd95a",
                 },
                 value: 1,
                 unit: "",
@@ -54874,7 +54874,7 @@ Weflow.require("ix2").init({
                 duration: 500,
                 target: {
                   useEventTarget: true,
-                  id: "634e3ae6f7e03258f05e7fa8|a7ab49b1-7e04-4066-b939-5a81af3cd95a",
+                  id: "page-arkitek|a7ab49b1-7e04-4066-b939-5a81af3cd95a",
                 },
                 yValue: -20,
                 xUnit: "PX",
@@ -54891,7 +54891,7 @@ Weflow.require("ix2").init({
                 duration: 500,
                 target: {
                   useEventTarget: true,
-                  id: "634e3ae6f7e03258f05e7fa8|a7ab49b1-7e04-4066-b939-5a81af3cd95a",
+                  id: "page-arkitek|a7ab49b1-7e04-4066-b939-5a81af3cd95a",
                 },
                 value: 0,
                 unit: "",
@@ -54910,7 +54910,7 @@ Weflow.require("ix2").init({
                 duration: 1000,
                 target: {
                   useEventTarget: true,
-                  id: "634e3ae6f7e03258f05e7fa8|a7ab49b1-7e04-4066-b939-5a81af3cd95a",
+                  id: "page-arkitek|a7ab49b1-7e04-4066-b939-5a81af3cd95a",
                 },
                 yValue: 0,
                 xUnit: "PX",
@@ -54927,7 +54927,7 @@ Weflow.require("ix2").init({
                 duration: 1000,
                 target: {
                   useEventTarget: true,
-                  id: "634e3ae6f7e03258f05e7fa8|a7ab49b1-7e04-4066-b939-5a81af3cd95a",
+                  id: "page-arkitek|a7ab49b1-7e04-4066-b939-5a81af3cd95a",
                 },
                 value: 1,
                 unit: "",
@@ -56543,7 +56543,7 @@ Weflow.require("ix2").init({
                 duration: 500,
                 target: {
                   useEventTarget: true,
-                  id: "634e3ae6f7e03258f05e7fa8|a7ab49b1-7e04-4066-b939-5a81af3cd95a",
+                  id: "page-arkitek|a7ab49b1-7e04-4066-b939-5a81af3cd95a",
                 },
                 yValue: 20,
                 xUnit: "PX",
@@ -56560,7 +56560,7 @@ Weflow.require("ix2").init({
                 duration: 500,
                 target: {
                   useEventTarget: true,
-                  id: "634e3ae6f7e03258f05e7fa8|a7ab49b1-7e04-4066-b939-5a81af3cd95a",
+                  id: "page-arkitek|a7ab49b1-7e04-4066-b939-5a81af3cd95a",
                 },
                 value: 0,
                 unit: "",
@@ -56579,7 +56579,7 @@ Weflow.require("ix2").init({
                 duration: 1200,
                 target: {
                   useEventTarget: true,
-                  id: "634e3ae6f7e03258f05e7fa8|a7ab49b1-7e04-4066-b939-5a81af3cd95a",
+                  id: "page-arkitek|a7ab49b1-7e04-4066-b939-5a81af3cd95a",
                 },
                 yValue: 0,
                 xUnit: "PX",
@@ -56596,7 +56596,7 @@ Weflow.require("ix2").init({
                 duration: 1200,
                 target: {
                   useEventTarget: true,
-                  id: "634e3ae6f7e03258f05e7fa8|a7ab49b1-7e04-4066-b939-5a81af3cd95a",
+                  id: "page-arkitek|a7ab49b1-7e04-4066-b939-5a81af3cd95a",
                 },
                 value: 1,
                 unit: "",
@@ -56623,7 +56623,7 @@ Weflow.require("ix2").init({
                 duration: 500,
                 target: {
                   useEventTarget: true,
-                  id: "634e3ae6f7e03258f05e7fa8|a7ab49b1-7e04-4066-b939-5a81af3cd95a",
+                  id: "page-arkitek|a7ab49b1-7e04-4066-b939-5a81af3cd95a",
                 },
                 yValue: -20,
                 xUnit: "PX",
@@ -56640,7 +56640,7 @@ Weflow.require("ix2").init({
                 duration: 500,
                 target: {
                   useEventTarget: true,
-                  id: "634e3ae6f7e03258f05e7fa8|a7ab49b1-7e04-4066-b939-5a81af3cd95a",
+                  id: "page-arkitek|a7ab49b1-7e04-4066-b939-5a81af3cd95a",
                 },
                 value: 0,
                 unit: "",
@@ -56659,7 +56659,7 @@ Weflow.require("ix2").init({
                 duration: 1200,
                 target: {
                   useEventTarget: true,
-                  id: "634e3ae6f7e03258f05e7fa8|a7ab49b1-7e04-4066-b939-5a81af3cd95a",
+                  id: "page-arkitek|a7ab49b1-7e04-4066-b939-5a81af3cd95a",
                 },
                 yValue: 0,
                 xUnit: "PX",
@@ -56676,7 +56676,7 @@ Weflow.require("ix2").init({
                 duration: 1200,
                 target: {
                   useEventTarget: true,
-                  id: "634e3ae6f7e03258f05e7fa8|a7ab49b1-7e04-4066-b939-5a81af3cd95a",
+                  id: "page-arkitek|a7ab49b1-7e04-4066-b939-5a81af3cd95a",
                 },
                 value: 1,
                 unit: "",
@@ -56846,6 +56846,6 @@ Weflow.require("ix2").init({
 
 Weflow.require("commerce") &&
   Weflow.require("commerce").init({
-    siteId: "634e3ae6f7e032d01b5e7fa7",
+    siteId: "site-arkitek",
     apiUrl: "https://render.weflow.com",
   });
