@@ -225,7 +225,6 @@ body {
   font-family: Arial, sans-serif;
   font-size: 14px;
   line-height: 20px;
-  padding:0;
 }
 img {
   max-width: 100%;
@@ -3631,6 +3630,8 @@ figcaption {
   color: #191919;
   background-color: #191919;
   padding-top: 1rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
   font-family: Satoshi, sans-serif;
   font-size: 18px;
   font-weight: 400;
@@ -5169,7 +5170,7 @@ figcaption {
   border-top-left-radius: 6rem;
   border-top-right-radius: 6rem;
   padding-top: 10rem;
-  padding-bottom: 80vh;
+  padding-bottom: 40vh;
   position: relative;
   overflow: hidden;
 }
