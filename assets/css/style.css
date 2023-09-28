@@ -4528,6 +4528,7 @@ figcaption {
   }
   .layout1_content {
     padding: 2rem;
+    order: 2;
   }
   .work1_image-wrapper {
     height: 400px;
