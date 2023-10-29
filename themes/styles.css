@@ -10,12 +10,6 @@ body {
     padding-bottom: 100vh; /* 16:9 aspect ratio, adjust as needed */
 }
 
-@media (max-width: 768px) {
-    .iframe-container {
-        width: 768px;
-    }
-}
-
 .iframe-container iframe {
     position: absolute;
     top: 0;
