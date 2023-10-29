@@ -5250,3 +5250,21 @@ figcaption {
   font-style: normal;
   font-display: swap;
 }
+
+.profile>header {
+  all: unset;
+  font-size: 1.25rem;
+  line-height: 1.6;
+  --line-height: 2rem;
+  display: none;
+  grid-template-columns: 1fr;
+}
+
+body>header, header.sticky, main>header {
+  display: none;
+  grid-template-columns: 1fr auto;
+  align-items: center;
+  gap: 1rem 0.75rem;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
